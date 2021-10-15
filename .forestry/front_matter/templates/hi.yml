@@ -1,4 +1,10 @@
 ---
 label: Hi
 hide_body: false
-fields: []
+fields:
+- name: hi
+  type: include
+  config: {}
+  template: hi
+  label: Hi
+  description: H<em>hkk</em>
